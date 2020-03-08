@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Kabel-DevOps-Learning/IGonzalez-ImplementACodeWorkflowInYourBuildPipeline/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Kabel-DevOps-Learning/IGonzalez-ImplementACodeWorkflowInYourBuildPipeline/_build/latest?definitionId=325&branchName=master)
 
 # Contributing
 
